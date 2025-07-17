@@ -1,2 +1,2 @@
 #!/bin/bash
-./9-previous_directory
+cd -
